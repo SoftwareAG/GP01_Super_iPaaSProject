@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/SoftwareAG/GP01_Super_iPaaSProject
   gitUsername: kalpshekhar-sag
   gitBranch: main
+services:
+- serviceName: project.gp01_super_ipaas.integrations:generateQuotation
+  packages:
+  - name: GP01_Super_iPaaSProject
+    version: "1.0"
