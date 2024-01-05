@@ -460,7 +460,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">gp01user</value>
-    <value name="lastModifiedDate">1704452949543</value>
+    <value name="lastModifiedDate">1704452993901</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
       <value name="id">0287be30012b45dbb2f0b8c3c45aef47</value>
       <value name="group">default</value>
@@ -1364,7 +1364,6 @@
       <record name="/3/2" javaclass="com.wm.util.Values">
       </record>
       <null name="/3/3"/>
-      <null name="/3/4"/>
     </record>
   </record>
   <value name="svc_in_validator_options">none</value>
