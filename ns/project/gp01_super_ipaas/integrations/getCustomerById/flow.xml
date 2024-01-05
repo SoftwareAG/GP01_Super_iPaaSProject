@@ -723,7 +723,7 @@
   <DATA ENCODING="XMLValues" I18N="true">
 
 <Values version="2.0">
-  <value name="xml">%appsimConfig/baseURL%/appsim/customers/%customerId%undefined</value>
+  <value name="xml">%appsimConfig/baseURL%/appsim/customers/%customerId%</value>
 </Values>
 </DATA>
 </MAPSET>
