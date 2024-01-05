@@ -32,3 +32,7 @@ services:
   packages:
   - name: GP01_Super_iPaaSProject
     version: "1.0"
+- serviceName: pub.client:http
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.656
