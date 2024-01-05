@@ -36,3 +36,11 @@ services:
   packages:
   - name: WmPublic
     version: 11.0.0.0.656
+- serviceName: pub.io:bytesToStream
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.656
+- serviceName: pub.json:jsonStreamToDocument
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.656
