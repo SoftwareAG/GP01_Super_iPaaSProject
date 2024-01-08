@@ -446,7 +446,7 @@
       <value name="modifiable">true</value>
     </record>
   </record>
-  <value name="description"></value>
+  <value name="description">This flow service returns the quote details fetched from CRM application hosted on private cloud</value>
   <value name="stateless">yes</value>
   <value name="caching">no</value>
   <value name="prefetch">no</value>
@@ -460,7 +460,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">gp01user</value>
-    <value name="lastModifiedDate">1704703305366</value>
+    <value name="lastModifiedDate">1704703606462</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
       <value name="id">d08a3943d4594f4d953a466bb26db874</value>
       <value name="group">default</value>
@@ -468,7 +468,7 @@
       <value name="executionPlaneType">onprem</value>
     </record>
     <value name="displayName">generateQuotation</value>
-    <value name="description"></value>
+    <value name="description">This flow service returns the quote details fetched from CRM application hosted on private cloud</value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
       <record name="/0" javaclass="com.wm.util.Values">
         <value name="itemType">CONTROLS</value>
@@ -1353,6 +1353,7 @@
         <number name="ui_step_index" type="Long">54</number>
         <null name="mapSet"/>
         <null name="outputMapSet"/>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
       </record>
       <record name="/3" javaclass="com.wm.util.Values">
         <value name="itemType">CONTROLS</value>
