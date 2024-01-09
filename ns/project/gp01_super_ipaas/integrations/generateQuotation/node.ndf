@@ -199,7 +199,6 @@
             <value name="field_largerEditor">false</value>
             <value name="field_password">false</value>
             <value name="field_usereditable">false</value>
-            <value name="id">f7bfb960-aea8-11ee-b7eb-6b3030bcbbd7</value>
           </record>
           <value name="is_public">false</value>
           <value name="field_name">outQuote</value>
@@ -217,7 +216,6 @@
                 <value name="field_largerEditor">false</value>
                 <value name="field_password">false</value>
                 <value name="field_usereditable">false</value>
-                <value name="id">f7bfb960-aea8-11ee-b7eb-6b3030bcbbd7/f7bfb961-aea8-11ee-b7eb-6b3030bcbbd7</value>
               </record>
               <value name="is_public">false</value>
               <value name="field_name">id</value>
@@ -235,7 +233,6 @@
                 <value name="field_largerEditor">false</value>
                 <value name="field_password">false</value>
                 <value name="field_usereditable">false</value>
-                <value name="id">f7bfb960-aea8-11ee-b7eb-6b3030bcbbd7/f7bfb962-aea8-11ee-b7eb-6b3030bcbbd7</value>
               </record>
               <value name="is_public">false</value>
               <value name="field_name">generationDate</value>
@@ -253,7 +250,6 @@
                 <value name="field_largerEditor">false</value>
                 <value name="field_password">false</value>
                 <value name="field_usereditable">false</value>
-                <value name="id">f7bfb960-aea8-11ee-b7eb-6b3030bcbbd7/f7bfb963-aea8-11ee-b7eb-6b3030bcbbd7</value>
               </record>
               <value name="is_public">false</value>
               <value name="field_name">customer</value>
@@ -271,7 +267,6 @@
                     <value name="field_largerEditor">false</value>
                     <value name="field_password">false</value>
                     <value name="field_usereditable">false</value>
-                    <value name="id">f7bfb960-aea8-11ee-b7eb-6b3030bcbbd7/f7bfb963-aea8-11ee-b7eb-6b3030bcbbd7/f7bfe070-aea8-11ee-b7eb-6b3030bcbbd7</value>
                   </record>
                   <value name="is_public">false</value>
                   <value name="field_name">id</value>
@@ -289,7 +284,6 @@
                     <value name="field_largerEditor">false</value>
                     <value name="field_password">false</value>
                     <value name="field_usereditable">false</value>
-                    <value name="id">f7bfb960-aea8-11ee-b7eb-6b3030bcbbd7/f7bfb963-aea8-11ee-b7eb-6b3030bcbbd7/f7bfe071-aea8-11ee-b7eb-6b3030bcbbd7</value>
                   </record>
                   <value name="is_public">false</value>
                   <value name="field_name">name</value>
@@ -310,7 +304,6 @@
                 <value name="field_largerEditor">false</value>
                 <value name="field_password">false</value>
                 <value name="field_usereditable">false</value>
-                <value name="id">f7bfb960-aea8-11ee-b7eb-6b3030bcbbd7/f7bfb964-aea8-11ee-b7eb-6b3030bcbbd7</value>
               </record>
               <value name="is_public">false</value>
               <value name="field_name">quotation</value>
@@ -328,7 +321,6 @@
                     <value name="field_largerEditor">false</value>
                     <value name="field_password">false</value>
                     <value name="field_usereditable">false</value>
-                    <value name="id">f7bfb960-aea8-11ee-b7eb-6b3030bcbbd7/f7bfb964-aea8-11ee-b7eb-6b3030bcbbd7/f7bfe072-aea8-11ee-b7eb-6b3030bcbbd7</value>
                   </record>
                   <value name="is_public">false</value>
                   <value name="field_name">products</value>
@@ -347,7 +339,6 @@
                         <value name="field_largerEditor">false</value>
                         <value name="field_password">false</value>
                         <value name="field_usereditable">false</value>
-                        <value name="id">f7bfb960-aea8-11ee-b7eb-6b3030bcbbd7/f7bfb964-aea8-11ee-b7eb-6b3030bcbbd7/f7bfe072-aea8-11ee-b7eb-6b3030bcbbd7/f7bfe074-aea8-11ee-b7eb-6b3030bcbbd7</value>
                       </record>
                       <value name="is_public">false</value>
                       <value name="field_name">id</value>
@@ -365,7 +356,6 @@
                         <value name="field_largerEditor">false</value>
                         <value name="field_password">false</value>
                         <value name="field_usereditable">false</value>
-                        <value name="id">f7bfb960-aea8-11ee-b7eb-6b3030bcbbd7/f7bfb964-aea8-11ee-b7eb-6b3030bcbbd7/f7bfe072-aea8-11ee-b7eb-6b3030bcbbd7/f7bfe075-aea8-11ee-b7eb-6b3030bcbbd7</value>
                       </record>
                       <value name="is_public">false</value>
                       <value name="field_name">name</value>
@@ -383,7 +373,6 @@
                         <value name="field_largerEditor">false</value>
                         <value name="field_password">false</value>
                         <value name="field_usereditable">false</value>
-                        <value name="id">f7bfb960-aea8-11ee-b7eb-6b3030bcbbd7/f7bfb964-aea8-11ee-b7eb-6b3030bcbbd7/f7bfe072-aea8-11ee-b7eb-6b3030bcbbd7/f7bfe076-aea8-11ee-b7eb-6b3030bcbbd7</value>
                       </record>
                       <value name="is_public">false</value>
                       <value name="field_name">quantity</value>
@@ -401,7 +390,6 @@
                         <value name="field_largerEditor">false</value>
                         <value name="field_password">false</value>
                         <value name="field_usereditable">false</value>
-                        <value name="id">f7bfb960-aea8-11ee-b7eb-6b3030bcbbd7/f7bfb964-aea8-11ee-b7eb-6b3030bcbbd7/f7bfe072-aea8-11ee-b7eb-6b3030bcbbd7/f7bfe077-aea8-11ee-b7eb-6b3030bcbbd7</value>
                       </record>
                       <value name="is_public">false</value>
                       <value name="field_name">total</value>
@@ -422,7 +410,6 @@
                     <value name="field_largerEditor">false</value>
                     <value name="field_password">false</value>
                     <value name="field_usereditable">false</value>
-                    <value name="id">f7bfb960-aea8-11ee-b7eb-6b3030bcbbd7/f7bfb964-aea8-11ee-b7eb-6b3030bcbbd7/f7bfe073-aea8-11ee-b7eb-6b3030bcbbd7</value>
                   </record>
                   <value name="is_public">false</value>
                   <value name="field_name">total</value>
@@ -443,7 +430,6 @@
                 <value name="field_largerEditor">false</value>
                 <value name="field_password">false</value>
                 <value name="field_usereditable">false</value>
-                <value name="id">f7bfb960-aea8-11ee-b7eb-6b3030bcbbd7/f7bfb965-aea8-11ee-b7eb-6b3030bcbbd7</value>
               </record>
               <value name="is_public">false</value>
               <value name="field_name">message</value>
@@ -460,7 +446,7 @@
       <value name="modifiable">true</value>
     </record>
   </record>
-  <value name="description">This flow service construct quote by fetching required details from CRM application hosted on private cloud</value>
+  <value name="description"></value>
   <value name="stateless">yes</value>
   <value name="caching">no</value>
   <value name="prefetch">no</value>
@@ -474,7 +460,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">gp01user</value>
-    <value name="lastModifiedDate">1704784619946</value>
+    <value name="lastModifiedDate">1704784715507</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
       <value name="id">cfafebd5d07541738be9c556911b6bcf</value>
       <value name="group">default</value>
@@ -482,18 +468,31 @@
       <value name="executionPlaneType">cloud</value>
     </record>
     <value name="displayName">generateQuotation</value>
-    <value name="description">This flow service construct quote by fetching required details from CRM application hosted on private cloud</value>
+    <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
       <record name="/0" javaclass="com.wm.util.Values">
         <value name="itemType">CONTROLS</value>
         <value name="name">TRANSFORM</value>
+        <number name="ui_step_index" type="Long">1</number>
+        <number name="nodeIndex" type="Long">0</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
       </record>
       <null name="/0/0"/>
       <null name="/0/1"/>
       <null name="/0/2"/>
       <record name="/1" javaclass="com.wm.util.Values">
-        <value name="itemType">CONTROLS</value>
         <value name="name">TRY</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">1</number>
       </record>
       <record name="/1/0" javaclass="com.wm.util.Values">
         <value name="itemType">CONTROLS</value>
@@ -508,24 +507,66 @@
           <Boolean name="resetOnfocusout">true</Boolean>
           <Boolean name="displayIcon">true</Boolean>
         </record>
+        <number name="nodeIndex" type="Long">0</number>
       </record>
-      <null name="/1/0/0"/>
+      <record name="/1/0/0" javaclass="com.wm.util.Values">
+        <value name="name">IF</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
       <record name="/1/0/0/0" javaclass="com.wm.util.Values">
         <value name="itemType">CONTROLS</value>
         <value name="name">TRANSFORM</value>
+        <number name="nodeIndex" type="Long">0</number>
+        <number name="ui_step_index" type="Long">4</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
       </record>
       <null name="/1/0/0/0/0"/>
-      <null name="/1/0/1"/>
+      <record name="/1/0/1" javaclass="com.wm.util.Values">
+        <value name="name">ELSEIF</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
       <record name="/1/0/1/0" javaclass="com.wm.util.Values">
         <value name="itemType">CONTROLS</value>
         <value name="name">TRANSFORM</value>
+        <number name="nodeIndex" type="Long">0</number>
+        <number name="ui_step_index" type="Long">6</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
       </record>
       <null name="/1/0/1/0/0"/>
-      <null name="/1/0/2"/>
+      <record name="/1/0/2" javaclass="com.wm.util.Values">
+        <value name="name">ELSE</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
       <record name="/1/0/2/0" javaclass="com.wm.util.Values">
-        <value name="itemType">INTEGRATIONS</value>
         <value name="name">getCustomerById</value>
         <value name="displayName">getCustomerById</value>
+        <value name="itemType">INTEGRATIONS</value>
+        <number name="ui_step_index" type="Long">8</number>
+        <number name="nodeIndex" type="Long">0</number>
+        <null name="mapSet"/>
+        <null name="outputMapSet"/>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
       </record>
       <record name="/1/0/2/1" javaclass="com.wm.util.Values">
         <value name="itemType">CONTROLS</value>
@@ -540,116 +581,808 @@
           <Boolean name="resetOnfocusout">true</Boolean>
           <Boolean name="displayIcon">true</Boolean>
         </record>
+        <number name="nodeIndex" type="Long">1</number>
       </record>
-      <null name="/1/0/2/1/0"/>
-      <null name="/1/0/2/1/0/0"/>
+      <record name="/1/0/2/1/0" javaclass="com.wm.util.Values">
+        <value name="name">IF</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
+      <record name="/1/0/2/1/0/0" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">TRANSFORM</value>
+        <number name="nodeIndex" type="Long">0</number>
+        <number name="ui_step_index" type="Long">10</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
+      </record>
       <null name="/1/0/2/1/0/0/0"/>
-      <null name="/1/0/2/1/1"/>
-      <null name="/1/0/2/1/1/0"/>
+      <record name="/1/0/2/1/1" javaclass="com.wm.util.Values">
+        <value name="name">ELSE</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
+      <record name="/1/0/2/1/1/0" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">TRANSFORM</value>
+        <number name="nodeIndex" type="Long">0</number>
+        <number name="ui_step_index" type="Long">12</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
+      </record>
       <null name="/1/0/2/1/1/0/0"/>
       <null name="/1/0/2/1/1/0/1"/>
       <null name="/1/0/2/1/1/0/2"/>
-      <null name="/1/0/2/1/1/1"/>
-      <null name="/1/0/2/1/1/1/0"/>
-      <null name="/1/0/2/1/1/1/0/0"/>
-      <null name="/1/0/2/1/1/1/0/0/0"/>
+      <record name="/1/0/2/1/1/1" javaclass="com.wm.util.Values">
+        <value name="name">REPEATINPUTOUTPUT</value>
+        <value name="itemType">CONTROLS</value>
+        <record name="in_array" javaclass="com.wm.util.Values">
+          <value name="name">inQuote/products</value>
+          <value name="type">record</value>
+          <value name="dim">1</value>
+          <Boolean name="isLink">false</Boolean>
+          <value name="field_name">products</value>
+          <null name="wrapper_type"/>
+        </record>
+        <record name="out_array" javaclass="com.wm.util.Values">
+          <value name="name">outQuote/quotation/products</value>
+          <value name="type">record</value>
+          <value name="dim">1</value>
+          <Boolean name="isLink">false</Boolean>
+          <value name="field_name">products</value>
+          <null name="wrapper_type"/>
+        </record>
+        <number name="nodeIndex" type="Long">1</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">IF</value>
+        <record name="config" javaclass="com.wm.util.Values">
+          <value name="displayLabel">field_name</value>
+          <value name="toolTipLabel">name</value>
+          <Boolean name="showLeafLabelOnly">true</Boolean>
+          <Boolean name="allowConstantValueInput">true</Boolean>
+          <Boolean name="focusOnLoad">true</Boolean>
+          <Boolean name="specialCharsAllowed">false</Boolean>
+          <Boolean name="resetOnfocusout">true</Boolean>
+          <Boolean name="displayIcon">true</Boolean>
+        </record>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0/0" javaclass="com.wm.util.Values">
+        <value name="name">IF</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0/0/0" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">TRANSFORM</value>
+        <number name="nodeIndex" type="Long">0</number>
+        <number name="ui_step_index" type="Long">15</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
+      </record>
       <null name="/1/0/2/1/1/1/0/0/0/0"/>
-      <null name="/1/0/2/1/1/1/0/0/1"/>
-      <null name="/1/0/2/1/1/1/0/1"/>
-      <null name="/1/0/2/1/1/1/0/1/0"/>
+      <record name="/1/0/2/1/1/1/0/0/1" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">EXIT</value>
+        <number name="nodeIndex" type="Long">1</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0/1" javaclass="com.wm.util.Values">
+        <value name="name">ELSEIF</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0/1/0" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">TRANSFORM</value>
+        <number name="nodeIndex" type="Long">0</number>
+        <number name="ui_step_index" type="Long">18</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
+      </record>
       <null name="/1/0/2/1/1/1/0/1/0/0"/>
-      <null name="/1/0/2/1/1/1/0/1/1"/>
-      <null name="/1/0/2/1/1/1/0/2"/>
-      <null name="/1/0/2/1/1/1/0/2/0"/>
-      <null name="/1/0/2/1/1/1/0/2/1"/>
-      <null name="/1/0/2/1/1/1/0/2/1/0"/>
-      <null name="/1/0/2/1/1/1/0/2/1/0/0"/>
+      <record name="/1/0/2/1/1/1/0/1/1" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">EXIT</value>
+        <number name="nodeIndex" type="Long">1</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2" javaclass="com.wm.util.Values">
+        <value name="name">ELSE</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/0" javaclass="com.wm.util.Values">
+        <value name="name">getProductById</value>
+        <value name="displayName">getProductById</value>
+        <value name="itemType">INTEGRATIONS</value>
+        <number name="ui_step_index" type="Long">21</number>
+        <number name="nodeIndex" type="Long">0</number>
+        <null name="mapSet"/>
+        <null name="outputMapSet"/>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">IF</value>
+        <record name="config" javaclass="com.wm.util.Values">
+          <value name="displayLabel">field_name</value>
+          <value name="toolTipLabel">name</value>
+          <Boolean name="showLeafLabelOnly">true</Boolean>
+          <Boolean name="allowConstantValueInput">true</Boolean>
+          <Boolean name="focusOnLoad">true</Boolean>
+          <Boolean name="specialCharsAllowed">false</Boolean>
+          <Boolean name="resetOnfocusout">true</Boolean>
+          <Boolean name="displayIcon">true</Boolean>
+        </record>
+        <number name="nodeIndex" type="Long">1</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/0" javaclass="com.wm.util.Values">
+        <value name="name">IF</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/0/0" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">TRANSFORM</value>
+        <number name="nodeIndex" type="Long">0</number>
+        <number name="ui_step_index" type="Long">23</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
+      </record>
       <null name="/1/0/2/1/1/1/0/2/1/0/0/0"/>
-      <null name="/1/0/2/1/1/1/0/2/1/0/1"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/0"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/0/0"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/1"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/2"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/2/0"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/2/0/0"/>
+      <record name="/1/0/2/1/1/1/0/2/1/0/1" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">EXIT</value>
+        <number name="nodeIndex" type="Long">1</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1" javaclass="com.wm.util.Values">
+        <value name="name">ELSE</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/0" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">TRANSFORM</value>
+        <number name="nodeIndex" type="Long">0</number>
+        <number name="ui_step_index" type="Long">26</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/0/0" javaclass="com.wm.util.Values">
+        <value name="itemType">SERVICES</value>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">objectToString</value>
+          <value name="serviceName">pub.string:objectToString</value>
+          <value name="transformerSupport">true</value>
+        </record>
+        <record name="serviceInfo" javaclass="com.wm.util.Values">
+          <value name="groupName">string</value>
+          <value name="groupDisplayName">String</value>
+        </record>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/1" javaclass="com.wm.util.Values">
+        <null name="name"/>
+        <value name="itemType">SERVICES</value>
+        <record name="serviceInfo" javaclass="com.wm.util.Values">
+          <value name="groupDisplayName">String</value>
+          <value name="groupName">string</value>
+          <null name="services"/>
+        </record>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">isNumber</value>
+          <value name="serviceName">pub.string:isNumber</value>
+          <value name="transformerSupport">true</value>
+        </record>
+        <number name="nodeIndex" type="Long">1</number>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <number name="ui_step_index" type="Long">27</number>
+        <null name="mapSet"/>
+        <null name="outputMapSet"/>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/2" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">IF</value>
+        <record name="config" javaclass="com.wm.util.Values">
+          <value name="displayLabel">field_name</value>
+          <value name="toolTipLabel">name</value>
+          <Boolean name="showLeafLabelOnly">true</Boolean>
+          <Boolean name="allowConstantValueInput">true</Boolean>
+          <Boolean name="focusOnLoad">true</Boolean>
+          <Boolean name="specialCharsAllowed">false</Boolean>
+          <Boolean name="resetOnfocusout">true</Boolean>
+          <Boolean name="displayIcon">true</Boolean>
+        </record>
+        <number name="nodeIndex" type="Long">2</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/2/0" javaclass="com.wm.util.Values">
+        <value name="name">IF</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/2/0/0" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">TRANSFORM</value>
+        <number name="nodeIndex" type="Long">0</number>
+        <number name="ui_step_index" type="Long">29</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
+      </record>
       <null name="/1/0/2/1/1/1/0/2/1/1/2/0/0/0"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/2/0/0/1"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/2/0/1"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/3"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/3/0"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/4"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/4/0"/>
+      <record name="/1/0/2/1/1/1/0/2/1/1/2/0/0/1" javaclass="com.wm.util.Values">
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/2/0/1" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">EXIT</value>
+        <number name="nodeIndex" type="Long">1</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/3" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">TRANSFORM</value>
+        <number name="nodeIndex" type="Long">3</number>
+        <number name="ui_step_index" type="Long">31</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/3/0" javaclass="com.wm.util.Values">
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/4" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">TRANSFORM</value>
+        <number name="nodeIndex" type="Long">4</number>
+        <number name="ui_step_index" type="Long">32</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/4/0" javaclass="com.wm.util.Values">
+        <value name="itemType">SERVICES</value>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">multiplyFloats</value>
+          <value name="serviceName">pub.math:multiplyFloats</value>
+          <value name="transformerSupport">true</value>
+        </record>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+      </record>
       <null name="/1/0/2/1/1/1/0/2/1/1/4/1"/>
       <null name="/1/0/2/1/1/1/0/2/1/1/4/2"/>
       <null name="/1/0/2/1/1/1/0/2/1/1/4/3"/>
       <null name="/1/0/2/1/1/1/0/2/1/1/4/4"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/4/5"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/5"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/5/0"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/5/0/0"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/5/0/1"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/6"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/6/0"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/7"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/7/0"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/7/0/0"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/7/0/0/0"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/7/1"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/7/1/0"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/7/1/0/0"/>
-      <null name="/1/0/2/1/1/1/0/2/1/1/8"/>
-      <null name="/1/0/2/1/1/1/0/2/2"/>
-      <null name="/1/0/2/1/1/1/0/2/2/0"/>
-      <null name="/1/0/2/1/1/2"/>
-      <null name="/1/0/2/1/1/2/0"/>
-      <null name="/1/0/2/1/1/2/0/0"/>
-      <null name="/1/0/2/1/1/2/0/0/0"/>
-      <null name="/1/0/2/1/1/2/0/0/0/0"/>
-      <null name="/1/0/2/1/1/2/0/0/0/1"/>
-      <null name="/1/0/2/1/1/2/0/1"/>
-      <null name="/1/0/2/1/1/2/0/1/0"/>
-      <null name="/1/0/2/1/1/2/0/1/0/0"/>
-      <null name="/1/0/2/1/1/2/0/1/0/0/0"/>
-      <null name="/1/0/2/1/1/2/0/1/1"/>
-      <null name="/1/0/2/1/1/2/0/1/1/0"/>
-      <null name="/1/0/2/1/1/2/0/1/1/0/0"/>
-      <null name="/1/0/2/1/1/2/0/2"/>
-      <null name="/1/0/2/1/1/2/0/3"/>
-      <null name="/1/0/2/1/1/2/0/3/0"/>
-      <null name="/1/0/2/1/1/2/0/3/1"/>
-      <null name="/1/0/2/1/1/2/0/3/2"/>
-      <null name="/1/0/2/1/1/2/0/4"/>
-      <null name="/1/0/2/1/1/2/0/4/0"/>
-      <null name="/1/0/2/1/1/2/0/4/1"/>
-      <null name="/1/0/2/1/1/2/0/4/2"/>
-      <null name="/1/0/2/1/1/2/0/4/3"/>
-      <null name="/1/0/2/1/1/2/0/4/4"/>
-      <null name="/1/0/2/1/1/2/0/4/5"/>
-      <record name="/2" javaclass="com.wm.util.Values">
+      <record name="/1/0/2/1/1/1/0/2/1/1/4/5" javaclass="com.wm.util.Values">
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/5" javaclass="com.wm.util.Values">
         <value name="itemType">CONTROLS</value>
+        <value name="name">IF</value>
+        <record name="config" javaclass="com.wm.util.Values">
+          <value name="displayLabel">field_name</value>
+          <value name="toolTipLabel">name</value>
+          <Boolean name="showLeafLabelOnly">true</Boolean>
+          <Boolean name="allowConstantValueInput">true</Boolean>
+          <Boolean name="focusOnLoad">true</Boolean>
+          <Boolean name="specialCharsAllowed">false</Boolean>
+          <Boolean name="resetOnfocusout">true</Boolean>
+          <Boolean name="displayIcon">true</Boolean>
+        </record>
+        <number name="nodeIndex" type="Long">5</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/5/0" javaclass="com.wm.util.Values">
+        <value name="name">IF</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/5/0/0" javaclass="com.wm.util.Values">
+        <null name="name"/>
+        <value name="itemType">SERVICES</value>
+        <record name="serviceInfo" javaclass="com.wm.util.Values">
+          <value name="groupDisplayName">Math</value>
+          <value name="groupName">math</value>
+          <null name="services"/>
+        </record>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">multiplyFloats</value>
+          <value name="serviceName">pub.math:multiplyFloats</value>
+          <value name="transformerSupport">true</value>
+        </record>
+        <number name="nodeIndex" type="Long">0</number>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <number name="ui_step_index" type="Long">34</number>
+        <null name="mapSet"/>
+        <null name="outputMapSet"/>
+        <Boolean name="xmlMapsetSupported">true</Boolean>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/5/0/1" javaclass="com.wm.util.Values">
+        <null name="name"/>
+        <value name="itemType">SERVICES</value>
+        <record name="serviceInfo" javaclass="com.wm.util.Values">
+          <value name="groupDisplayName">Math</value>
+          <value name="groupName">math</value>
+          <null name="services"/>
+        </record>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">subtractFloats</value>
+          <value name="serviceName">pub.math:subtractFloats</value>
+          <value name="transformerSupport">true</value>
+        </record>
+        <number name="nodeIndex" type="Long">1</number>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <number name="ui_step_index" type="Long">35</number>
+        <null name="mapSet"/>
+        <null name="outputMapSet"/>
+        <Boolean name="xmlMapsetSupported">true</Boolean>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/6" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">TRANSFORM</value>
+        <number name="nodeIndex" type="Long">6</number>
+        <number name="ui_step_index" type="Long">36</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/6/0" javaclass="com.wm.util.Values">
+        <value name="itemType">SERVICES</value>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">addFloats</value>
+          <value name="serviceName">pub.math:addFloats</value>
+          <value name="transformerSupport">true</value>
+        </record>
+        <record name="serviceInfo" javaclass="com.wm.util.Values">
+          <value name="groupName">math</value>
+          <value name="groupDisplayName">Math</value>
+        </record>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/7" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">IF</value>
+        <record name="config" javaclass="com.wm.util.Values">
+          <value name="displayLabel">field_name</value>
+          <value name="toolTipLabel">name</value>
+          <Boolean name="showLeafLabelOnly">true</Boolean>
+          <Boolean name="allowConstantValueInput">true</Boolean>
+          <Boolean name="focusOnLoad">true</Boolean>
+          <Boolean name="specialCharsAllowed">false</Boolean>
+          <Boolean name="resetOnfocusout">true</Boolean>
+          <Boolean name="displayIcon">true</Boolean>
+        </record>
+        <number name="nodeIndex" type="Long">7</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/7/0" javaclass="com.wm.util.Values">
+        <value name="name">IF</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/7/0/0" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">TRANSFORM</value>
+        <number name="ui_step_index" type="Long">38</number>
+        <number name="nodeIndex" type="Long">0</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/7/0/0/0" javaclass="com.wm.util.Values">
+        <value name="itemType">SERVICES</value>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">concat</value>
+          <value name="serviceName">pub.string:concat</value>
+          <value name="transformerSupport">true</value>
+        </record>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/7/1" javaclass="com.wm.util.Values">
+        <value name="name">ELSE</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/7/1/0" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">TRANSFORM</value>
+        <number name="ui_step_index" type="Long">40</number>
+        <number name="nodeIndex" type="Long">0</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/7/1/0/0" javaclass="com.wm.util.Values">
+        <value name="itemType">SERVICES</value>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">concat</value>
+          <value name="serviceName">pub.string:concat</value>
+          <value name="transformerSupport">true</value>
+        </record>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/1/1/8" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">TRANSFORM</value>
+        <number name="nodeIndex" type="Long">9</number>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/2" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">TRANSFORM</value>
+        <number name="ui_step_index" type="Long">42</number>
+        <number name="nodeIndex" type="Long">3</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
+      </record>
+      <record name="/1/0/2/1/1/1/0/2/2/0" javaclass="com.wm.util.Values">
+      </record>
+      <record name="/1/0/2/1/1/2" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">IF</value>
+        <record name="config" javaclass="com.wm.util.Values">
+          <value name="displayLabel">field_name</value>
+          <value name="toolTipLabel">name</value>
+          <Boolean name="showLeafLabelOnly">true</Boolean>
+          <Boolean name="allowConstantValueInput">true</Boolean>
+          <Boolean name="focusOnLoad">true</Boolean>
+          <Boolean name="specialCharsAllowed">false</Boolean>
+          <Boolean name="resetOnfocusout">true</Boolean>
+          <Boolean name="displayIcon">true</Boolean>
+        </record>
+        <number name="nodeIndex" type="Long">2</number>
+      </record>
+      <record name="/1/0/2/1/1/2/0" javaclass="com.wm.util.Values">
+        <value name="name">IF</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
+      <record name="/1/0/2/1/1/2/0/0" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">IF</value>
+        <record name="config" javaclass="com.wm.util.Values">
+          <value name="displayLabel">field_name</value>
+          <value name="toolTipLabel">name</value>
+          <Boolean name="showLeafLabelOnly">true</Boolean>
+          <Boolean name="allowConstantValueInput">true</Boolean>
+          <Boolean name="focusOnLoad">true</Boolean>
+          <Boolean name="specialCharsAllowed">false</Boolean>
+          <Boolean name="resetOnfocusout">true</Boolean>
+          <Boolean name="displayIcon">true</Boolean>
+        </record>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
+      <record name="/1/0/2/1/1/2/0/0/0" javaclass="com.wm.util.Values">
+        <value name="name">IF</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
+      <record name="/1/0/2/1/1/2/0/0/0/0" javaclass="com.wm.util.Values">
+        <null name="name"/>
+        <value name="itemType">SERVICES</value>
+        <record name="serviceInfo" javaclass="com.wm.util.Values">
+          <value name="groupDisplayName">Math</value>
+          <value name="groupName">math</value>
+          <null name="services"/>
+        </record>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">multiplyFloats</value>
+          <value name="serviceName">pub.math:multiplyFloats</value>
+          <value name="transformerSupport">true</value>
+        </record>
+        <number name="nodeIndex" type="Long">0</number>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <number name="ui_step_index" type="Long">45</number>
+        <null name="mapSet"/>
+        <null name="outputMapSet"/>
+        <Boolean name="xmlMapsetSupported">true</Boolean>
+      </record>
+      <record name="/1/0/2/1/1/2/0/0/0/1" javaclass="com.wm.util.Values">
+        <null name="name"/>
+        <value name="itemType">SERVICES</value>
+        <record name="serviceInfo" javaclass="com.wm.util.Values">
+          <value name="groupDisplayName">Math</value>
+          <value name="groupName">math</value>
+          <null name="services"/>
+        </record>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">subtractFloats</value>
+          <value name="serviceName">pub.math:subtractFloats</value>
+          <value name="transformerSupport">true</value>
+        </record>
+        <number name="nodeIndex" type="Long">1</number>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <number name="ui_step_index" type="Long">46</number>
+        <null name="mapSet"/>
+        <null name="outputMapSet"/>
+        <Boolean name="xmlMapsetSupported">true</Boolean>
+      </record>
+      <record name="/1/0/2/1/1/2/0/1" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">IF</value>
+        <record name="config" javaclass="com.wm.util.Values">
+          <value name="displayLabel">field_name</value>
+          <value name="toolTipLabel">name</value>
+          <Boolean name="showLeafLabelOnly">true</Boolean>
+          <Boolean name="allowConstantValueInput">true</Boolean>
+          <Boolean name="focusOnLoad">true</Boolean>
+          <Boolean name="specialCharsAllowed">false</Boolean>
+          <Boolean name="resetOnfocusout">true</Boolean>
+          <Boolean name="displayIcon">true</Boolean>
+        </record>
+        <number name="nodeIndex" type="Long">1</number>
+      </record>
+      <record name="/1/0/2/1/1/2/0/1/0" javaclass="com.wm.util.Values">
+        <value name="name">IF</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
+      <record name="/1/0/2/1/1/2/0/1/0/0" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">TRANSFORM</value>
+        <number name="ui_step_index" type="Long">48</number>
+        <number name="nodeIndex" type="Long">0</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
+      </record>
+      <record name="/1/0/2/1/1/2/0/1/0/0/0" javaclass="com.wm.util.Values">
+        <value name="itemType">SERVICES</value>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">concat</value>
+          <value name="serviceName">pub.string:concat</value>
+          <value name="transformerSupport">true</value>
+        </record>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+      </record>
+      <record name="/1/0/2/1/1/2/0/1/1" javaclass="com.wm.util.Values">
+        <value name="name">ELSE</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">0</number>
+      </record>
+      <record name="/1/0/2/1/1/2/0/1/1/0" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">TRANSFORM</value>
+        <number name="ui_step_index" type="Long">50</number>
+        <number name="nodeIndex" type="Long">0</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
+      </record>
+      <record name="/1/0/2/1/1/2/0/1/1/0/0" javaclass="com.wm.util.Values">
+        <value name="itemType">SERVICES</value>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">concat</value>
+          <value name="serviceName">pub.string:concat</value>
+          <value name="transformerSupport">true</value>
+        </record>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+      </record>
+      <record name="/1/0/2/1/1/2/0/2" javaclass="com.wm.util.Values">
+        <null name="name"/>
+        <value name="itemType">SERVICES</value>
+        <record name="serviceInfo" javaclass="com.wm.util.Values">
+          <value name="groupDisplayName">Date</value>
+          <value name="groupName">date</value>
+          <null name="services"/>
+        </record>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">currentNanoTime</value>
+          <value name="serviceName">pub.date:currentNanoTime</value>
+          <value name="transformerSupport">true</value>
+        </record>
+        <number name="ui_step_index" type="Long">51</number>
+        <number name="nodeIndex" type="Long">3</number>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+      </record>
+      <record name="/1/0/2/1/1/2/0/3" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">TRANSFORM</value>
+        <number name="ui_step_index" type="Long">52</number>
+        <number name="nodeIndex" type="Long">4</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
+      </record>
+      <record name="/1/0/2/1/1/2/0/3/0" javaclass="com.wm.util.Values">
+        <value name="itemType">SERVICES</value>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">objectToString</value>
+          <value name="serviceName">pub.string:objectToString</value>
+          <value name="transformerSupport">true</value>
+        </record>
+      </record>
+      <record name="/1/0/2/1/1/2/0/3/1" javaclass="com.wm.util.Values">
+        <value name="itemType">SERVICES</value>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">getCurrentDateString</value>
+          <value name="serviceName">pub.date:getCurrentDateString</value>
+          <value name="transformerSupport">true</value>
+        </record>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+      </record>
+      <record name="/1/0/2/1/1/2/0/3/2" javaclass="com.wm.util.Values">
+      </record>
+      <record name="/2" javaclass="com.wm.util.Values">
         <value name="name">CATCH</value>
+        <value name="itemType">CONTROLS</value>
+        <number name="nodeIndex" type="Long">2</number>
       </record>
       <record name="/2/0" javaclass="com.wm.util.Values">
+        <null name="name"/>
         <value name="itemType">SERVICES</value>
+        <record name="serviceInfo" javaclass="com.wm.util.Values">
+          <value name="groupDisplayName">Flow</value>
+          <value name="groupName">flow</value>
+          <null name="services"/>
+        </record>
         <record name="serviceName" javaclass="com.wm.util.Values">
           <value name="displayName">getLastFailureCaught</value>
           <value name="serviceName">pub.flow:getLastFailureCaught</value>
-          <value name="transformerSupport">true</value>
+          <value name="transformerSupport">false</value>
         </record>
+        <number name="nodeIndex" type="Long">0</number>
+        <number name="ui_step_index" type="Long">54</number>
+        <null name="mapSet"/>
+        <null name="outputMapSet"/>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
       </record>
       <record name="/3" javaclass="com.wm.util.Values">
         <value name="itemType">CONTROLS</value>
         <value name="name">TRANSFORM</value>
+        <number name="ui_step_index" type="Long">55</number>
+        <number name="nodeIndex" type="Long">3</number>
+        <array name="map" type="object" depth="1">
+        </array>
+        <array name="mapSet" type="object" depth="1">
+        </array>
+        <array name="mapDelete" type="object" depth="1">
+        </array>
+        <array name="transformer" type="object" depth="1">
+        </array>
+        <array name="lookupTransformer" type="object" depth="1">
+        </array>
       </record>
-      <null name="/3/0"/>
-      <null name="/3/1"/>
-      <null name="/3/2"/>
-      <null name="/3/3"/>
-      <null name="/3/4"/>
-      <null name="/3/5"/>
-      <null name="/3/6"/>
-      <null name="/3/7"/>
+      <record name="/3/0" javaclass="com.wm.util.Values">
+      </record>
+      <record name="/3/1" javaclass="com.wm.util.Values">
+      </record>
+      <record name="/3/2" javaclass="com.wm.util.Values">
+      </record>
+      <record name="/3/3" javaclass="com.wm.util.Values">
+      </record>
+      <record name="/3/4" javaclass="com.wm.util.Values">
+      </record>
+      <record name="/3/5" javaclass="com.wm.util.Values">
+      </record>
     </record>
   </record>
   <value name="svc_in_validator_options">none</value>
