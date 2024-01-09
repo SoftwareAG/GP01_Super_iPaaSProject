@@ -474,12 +474,12 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">gp01user</value>
-    <value name="lastModifiedDate">1704784015714</value>
+    <value name="lastModifiedDate">1704784619946</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="id">d08a3943d4594f4d953a466bb26db874</value>
+      <value name="id">cfafebd5d07541738be9c556911b6bcf</value>
       <value name="group">default</value>
-      <value name="name">GP01_AWS_US_East_2</value>
-      <value name="executionPlaneType">onprem</value>
+      <value name="name">Cloud Runtime</value>
+      <value name="executionPlaneType">cloud</value>
     </record>
     <value name="displayName">generateQuotation</value>
     <value name="description">This flow service construct quote by fetching required details from CRM application hosted on private cloud</value>
@@ -495,16 +495,52 @@
         <value name="itemType">CONTROLS</value>
         <value name="name">TRY</value>
       </record>
-      <null name="/1/0"/>
+      <record name="/1/0" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">IF</value>
+        <record name="config" javaclass="com.wm.util.Values">
+          <value name="displayLabel">field_name</value>
+          <value name="toolTipLabel">name</value>
+          <Boolean name="showLeafLabelOnly">true</Boolean>
+          <Boolean name="allowConstantValueInput">true</Boolean>
+          <Boolean name="focusOnLoad">true</Boolean>
+          <Boolean name="specialCharsAllowed">false</Boolean>
+          <Boolean name="resetOnfocusout">true</Boolean>
+          <Boolean name="displayIcon">true</Boolean>
+        </record>
+      </record>
       <null name="/1/0/0"/>
-      <null name="/1/0/0/0"/>
+      <record name="/1/0/0/0" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">TRANSFORM</value>
+      </record>
       <null name="/1/0/0/0/0"/>
       <null name="/1/0/1"/>
-      <null name="/1/0/1/0"/>
+      <record name="/1/0/1/0" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">TRANSFORM</value>
+      </record>
       <null name="/1/0/1/0/0"/>
       <null name="/1/0/2"/>
-      <null name="/1/0/2/0"/>
-      <null name="/1/0/2/1"/>
+      <record name="/1/0/2/0" javaclass="com.wm.util.Values">
+        <value name="itemType">INTEGRATIONS</value>
+        <value name="name">getCustomerById</value>
+        <value name="displayName">getCustomerById</value>
+      </record>
+      <record name="/1/0/2/1" javaclass="com.wm.util.Values">
+        <value name="itemType">CONTROLS</value>
+        <value name="name">IF</value>
+        <record name="config" javaclass="com.wm.util.Values">
+          <value name="displayLabel">field_name</value>
+          <value name="toolTipLabel">name</value>
+          <Boolean name="showLeafLabelOnly">true</Boolean>
+          <Boolean name="allowConstantValueInput">true</Boolean>
+          <Boolean name="focusOnLoad">true</Boolean>
+          <Boolean name="specialCharsAllowed">false</Boolean>
+          <Boolean name="resetOnfocusout">true</Boolean>
+          <Boolean name="displayIcon">true</Boolean>
+        </record>
+      </record>
       <null name="/1/0/2/1/0"/>
       <null name="/1/0/2/1/0/0"/>
       <null name="/1/0/2/1/0/0/0"/>
@@ -594,7 +630,14 @@
         <value name="itemType">CONTROLS</value>
         <value name="name">CATCH</value>
       </record>
-      <null name="/2/0"/>
+      <record name="/2/0" javaclass="com.wm.util.Values">
+        <value name="itemType">SERVICES</value>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">getLastFailureCaught</value>
+          <value name="serviceName">pub.flow:getLastFailureCaught</value>
+          <value name="transformerSupport">true</value>
+        </record>
+      </record>
       <record name="/3" javaclass="com.wm.util.Values">
         <value name="itemType">CONTROLS</value>
         <value name="name">TRANSFORM</value>
