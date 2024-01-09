@@ -52,3 +52,11 @@ services:
   packages:
   - name: WmPublic
     version: 11.0.0.0.656
+- serviceName: project.gp01_super_ipaas.integrations:kalptest
+  packages:
+  - name: GP01_Super_iPaaSProject
+    version: "1.0"
+- serviceName: pub.flow:debugLog
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.656
