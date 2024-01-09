@@ -6775,12 +6775,6 @@
 </MAPCOPY>
 
 <MAPSET NAME="Setter" OVERWRITE="true" VARIABLES="false" GLOBALVARIABLES="false" FIELD="/inString1;1;0">
-  <DATA ENCODING="XMLValues" I18N="true">
-
-<Values version="2.0">
-  <value name="xml">$</value>
-</Values>
-</DATA>
 </MAPSET>
 </MAP>
 
@@ -7299,7 +7293,7 @@
   <DATA ENCODING="XMLValues" I18N="true">
 
 <Values version="2.0">
-  <value name="xml">???</value>
+  <value name="xml">€</value>
 </Values>
 </DATA>
 </MAPSET>
