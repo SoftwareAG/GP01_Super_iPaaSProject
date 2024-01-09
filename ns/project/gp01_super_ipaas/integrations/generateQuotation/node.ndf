@@ -474,7 +474,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">gp01user</value>
-    <value name="lastModifiedDate">1704783654060</value>
+    <value name="lastModifiedDate">1704783855718</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
       <value name="id">d08a3943d4594f4d953a466bb26db874</value>
       <value name="group">default</value>
@@ -607,20 +607,6 @@
       <null name="/3/5"/>
       <null name="/3/6"/>
       <null name="/3/7"/>
-      <record name="/4" javaclass="com.wm.util.Values">
-        <null name="name"/>
-        <value name="itemType">SERVICES</value>
-        <record name="serviceInfo" javaclass="com.wm.util.Values">
-          <value name="groupDisplayName">Flow</value>
-          <value name="groupName">flow</value>
-          <null name="services"/>
-        </record>
-        <record name="serviceName" javaclass="com.wm.util.Values">
-          <value name="displayName">debugLog</value>
-          <value name="serviceName">pub.flow:debugLog</value>
-          <value name="transformerSupport">false</value>
-        </record>
-      </record>
     </record>
   </record>
   <value name="svc_in_validator_options">none</value>
