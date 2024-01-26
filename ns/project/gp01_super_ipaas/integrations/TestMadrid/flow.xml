@@ -252,7 +252,7 @@
 
   <!-- nodes -->
 
-<MAPCOPY FROM="/value;1;0" TO="/value;1;0">
+<MAPCOPY FROM="/value;1;0" TO="/output;1;0">
 </MAPCOPY>
 </MAP>
 </INVOKE>
