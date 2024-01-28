@@ -62,7 +62,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">demouser</value>
-    <value name="lastModifiedDate">1706454412577</value>
+    <value name="lastModifiedDate">1706454989073</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
       <value name="id">5ea6bf47d8cd4cdda5206b58b5512bc8</value>
       <value name="group">default</value>
@@ -89,6 +89,7 @@
         <number name="nodeIndex" type="Long">0</number>
         <null name="mapSet"/>
         <null name="outputMapSet"/>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
       </record>
       <record name="/1" javaclass="com.wm.util.Values">
         <null name="name"/>
@@ -105,6 +106,25 @@
         </record>
         <number name="ui_step_index" type="Long">2</number>
         <number name="nodeIndex" type="Long">1</number>
+        <null name="mapSet"/>
+        <null name="outputMapSet"/>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+      </record>
+      <record name="/2" javaclass="com.wm.util.Values">
+        <null name="name"/>
+        <value name="itemType">SERVICES</value>
+        <record name="serviceInfo" javaclass="com.wm.util.Values">
+          <value name="groupDisplayName">Flow</value>
+          <value name="groupName">flow</value>
+          <null name="services"/>
+        </record>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">debugLog</value>
+          <value name="serviceName">pub.flow:debugLog</value>
+          <value name="transformerSupport">false</value>
+        </record>
+        <number name="ui_step_index" type="Long">3</number>
+        <number name="nodeIndex" type="Long">2</number>
         <null name="mapSet"/>
         <null name="outputMapSet"/>
       </record>
