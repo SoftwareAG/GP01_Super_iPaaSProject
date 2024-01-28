@@ -68,3 +68,7 @@ services:
   packages:
   - name: WmPublic
     version: 11.0.0.0.741
+- serviceName: project.gp01_super_ipaas.integrations:DemoMadrid
+  packages:
+  - name: GP01_Super_iPaaSProject
+    version: "1.0"
