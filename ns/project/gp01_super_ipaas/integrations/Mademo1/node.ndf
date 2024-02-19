@@ -61,14 +61,13 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">demouser</value>
-    <value name="createdDate">1708356026208</value>
-    <value name="lastModifiedDate">1708356026208</value>
+    <value name="lastModifiedBy">demouser</value>
+    <value name="lastModifiedDate">1708356042138</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="id">cfafebd5d07541738be9c556911b6bcf</value>
+      <value name="id">5ea6bf47d8cd4cdda5206b58b5512bc8</value>
       <value name="group">default</value>
-      <value name="name">Cloud Runtime</value>
-      <value name="executionPlaneType">cloud</value>
+      <value name="name">FR_FH_Local</value>
+      <value name="executionPlaneType">onprem</value>
     </record>
     <value name="displayName">Mademo1</value>
     <value name="description"></value>

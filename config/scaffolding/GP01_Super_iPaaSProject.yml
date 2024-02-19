@@ -72,3 +72,7 @@ services:
   packages:
   - name: GP01_Super_iPaaSProject
     version: "1.0"
+- serviceName: project.gp01_super_ipaas.integrations:Mademo1
+  packages:
+  - name: GP01_Super_iPaaSProject
+    version: "1.0"
